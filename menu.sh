@@ -74,7 +74,7 @@ if [ $pilih = 1 ]; then
     cd $HOME
     cd ping/data/caping1
     php caping1.php
-exit 0
+
 elif [ $pilih = 2 ]; then
     echo "loding caping 2....."
     cd $HOME
@@ -83,7 +83,7 @@ elif [ $pilih = 2 ]; then
     cd $HOME
     cd ping/data/caping2
     php caping2.php
-exit 0
+
 elif [ $pilih = 3 ]; then
     echo "loding caping 3....."
     cd $HOME
@@ -92,7 +92,7 @@ elif [ $pilih = 3 ]; then
     cd $HOME
     cd ping/data/caping3
     php caping3.php
-exit 0
+
 elif [ $pilih = 4 ]; then
     echo "loding caping 4....."
     cd $HOME
@@ -101,7 +101,7 @@ elif [ $pilih = 4 ]; then
     cd $HOME
     cd ping/data/caping4
     php caping4.php
-exit 0
+
 elif [ $pilih = 5 ]; then
     echo "loding caping 5....."
     cd $HOME
@@ -110,7 +110,7 @@ elif [ $pilih = 5 ]; then
     cd $HOME
     cd ping/data/caping5
     php caping5.php
-exit 0
+
 elif [ $pilih = 6 ]; then
   echo "loding caping 6....."
     cd $HOME
@@ -119,7 +119,7 @@ elif [ $pilih = 6 ]; then
     cd $HOME
     cd ping/data/caping6
     php caping6.php
-exit 0
+
 elif [ $pilih = 7 ]; then
     echo "loding caping 7....."
     cd $HOME
@@ -128,7 +128,7 @@ elif [ $pilih = 7 ]; then
     cd $HOME
    cd ping/data/caping7
     php caping7.php
-exit 0
+
 elif [ $pilih = 8 ]; then
     echo "loding caping 8....."
     cd $HOME
@@ -137,7 +137,7 @@ elif [ $pilih = 8 ]; then
     cd $HOME
     cd ping/data/caping8
     php caping8.php
-exit 0
+
 elif [ $pilih = 9 ]; then
     echo "loding caping 9....."
     cd $HOME
@@ -146,7 +146,7 @@ elif [ $pilih = 9 ]; then
     cd $HOME
     cd ping/data/caping9
     php caping9.php
-exit 0
+
 elif [ $pilih = 10 ]; then
     echo "loding caping 10....."
     cd $HOME
@@ -155,7 +155,7 @@ elif [ $pilih = 10 ]; then
     cd $HOME
     cd ping/data/caping10
     php caping10.php
-exit 0
+
 elif [ $pilih = 0 ]; then
 
    clear
